@@ -1,6 +1,11 @@
 PoissonImageEditing
 ===================
 
-<p>
-    Easy-to-read Python implementation of the seamless image cloning method in the paper <a class='urllink' href='http://www.cs.jhu.edu/~misha/Fall07/Papers/Perez03.pdf'>Poisson Image Editing</a>. To solve the sparse least-squares problem arising in this method, I provide an <a class='urllink' href='http://bit.ly/12lYQMC'>implementation that uses the default scipy.sparse solver</a>, as well as an <a class='urllink' href='http://bit.ly/14tNb1z'>implementation that uses a hand-written Jacobi solver</a>.
-</p>
+Easy-to-read Python implementation of the seamless image cloning method in the paper <a href='http://www.cs.jhu.edu/~misha/Fall07/Papers/Perez03.pdf'>Poisson Image Editing</a>. To solve the sparse least-squares problem arising in this method, I provide an implementation that uses the default scipy.sparse solver, as well as an implementation that uses a hand-written geometric Jacobi solver.
+
+This code can be browsed online with the <a href='http://nbviewer.ipython.org/'>IPython Notebook Viewer</a> using the links below.
+
+- <a href='http://nbviewer.ipython.org/urls/raw.github.com/mroberts3000/PoissonImageEditing/master/IPython/SeamlessImageCloningAlgebraic.ipynb'>default scipy.sparse solver</a>
+- <a href='http://nbviewer.ipython.org/urls/raw.github.com/mroberts3000/PoissonImageEditing/master/IPython/SeamlessImageCloningGeometric.ipynb'>hand-written geometric Jacobi solver</a>
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/77894ab1a78feccd2a270506208889c6 "githalytics.com")](http://githalytics.com/mroberts3000/PoissonImageEditing)

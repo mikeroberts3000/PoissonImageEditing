@@ -4,5 +4,3 @@ This code can be browsed online with the <a href='http://nbviewer.ipython.org/'>
 
 - <a href='http://nbviewer.ipython.org/urls/raw.github.com/mroberts3000/PoissonImageEditing/master/IPython/SeamlessImageCloningAlgebraic.ipynb'>default scipy.sparse solver</a>
 - <a href='http://nbviewer.ipython.org/urls/raw.github.com/mroberts3000/PoissonImageEditing/master/IPython/SeamlessImageCloningGeometric.ipynb'>hand-written geometric Jacobi solver</a>
-
-[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/77894ab1a78feccd2a270506208889c6 "githalytics.com")](http://githalytics.com/mroberts3000/PoissonImageEditing)
